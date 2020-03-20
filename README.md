@@ -1,2 +1,2 @@
-# hrserver
-根据github上的hrserver，重新整理为个人学习项目
+# 项目HRServer
+> 根据原有github项目进行本地化修改
